@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaraUckelman
-- 👀 I’m interested in medieval names.
+- 👀 I’m interested in names and logic.
 - 📫 How to reach me: s.l.uckelman@durham.ac.uk
 
 <!---
